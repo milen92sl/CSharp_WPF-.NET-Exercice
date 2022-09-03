@@ -1,0 +1,15 @@
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\bin\Debug\WPF Training Project.exe.config
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\bin\Debug\WPF Training Project.exe
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\bin\Debug\WPF Training Project.pdb
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF Training Project.csproj.AssemblyReference.cache
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\MainWindow.g.cs
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\App.g.cs
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF Training Project_MarkupCompile.cache
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF Training Project_MarkupCompile.lref
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\MainWindow.baml
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF Training Project.g.resources
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF_Training_Project.Properties.Resources.resources
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF Training Project.csproj.GenerateResource.cache
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF Training Project.csproj.CoreCompileInputs.cache
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF Training Project.exe
+C:\WPF .NET APP Training\WPF Training Project\WPF Training Project\obj\Debug\WPF Training Project.pdb
